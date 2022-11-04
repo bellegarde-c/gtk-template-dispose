@@ -1,0 +1,6 @@
+data/org.gnome.gtk_test.desktop.in
+data/org.gnome.gtk_test.appdata.xml.in
+data/org.gnome.gtk_test.gschema.xml
+src/main.c
+src/gtk-test-window.c
+src/gtk-test-window.ui
